@@ -31,7 +31,7 @@ Los giros se realizan durante una determinada cantidad de cclos y los avances de
 distancia frontal detectada. Una vez que se cumple una etapa, incremento el contador y 
 el robot continúa con la siguiente.
 
-Si reflexionamos que  esta estrategia utilizada es secuencial y fue diseñada específicamente para 
+Si analizamos que  esta estrategia utilizada es secuencial y fue diseñada específicamente para 
 las características de esta pista, nos permite observar que es muy 
 acotada y dependiente del contexto. Esto se debe a que a las condiciones planteadas, 
 los movimientos, los giros y algunas distancias fueron 
