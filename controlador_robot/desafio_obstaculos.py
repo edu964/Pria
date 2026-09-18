@@ -162,8 +162,8 @@ class Desafio(Node):
             self.contador += 1
 
 
-        # CONTADOR = 141
-        # AVANZA HASTA DISTANCIA MENOR A 1.3
+        # CONTDOR = 141
+        # AVANZA HASTA DISTANCIA MENOR A 0.2
         elif self.contador == 141:
 
             if self.distancia_frente >= 0.2:
